@@ -1,0 +1,22 @@
+.header {
+  background-color: var(--primary-white-color);
+  border-bottom: 1px solid var(--header-border-color);
+}
+
+.header__container {
+  display: flex;
+  align-items: center;
+}
+
+.header__logo {
+  margin-right: 93px;
+}
+
+.logo_black {
+  color: var(--black-color);
+}
+
+.header__navigation {
+  display: flex;
+  align-items: center;
+}
